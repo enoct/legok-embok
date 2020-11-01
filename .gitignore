@@ -24,6 +24,8 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+.DS_Store
+ML_*
 
 ### Microservices ###
 microservices
